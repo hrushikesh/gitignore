@@ -30,4 +30,7 @@ proguard/
 
 # Gradle files
 build/
+gradle/
 .gradle
+gradlew
+gradlew.bat
